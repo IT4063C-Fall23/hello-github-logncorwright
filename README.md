@@ -26,20 +26,20 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- For this assignment I learned how to use VSCode as I only used anaconda last semester for my python problems. I learned how to add, commit, and push git commands (among other things). 
 
 **I struggled with:** (repeat as needed)
-- .
+- The only problem I ran into which was kind of silly in retrospect was that I did not originally save the information on VSC so it never updated...But once I figured that out I was ableto complete the assignment.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- I did not reach out for help with this assignment. 
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 ------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- . I did not use outside references/resources in my work.
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- You, the professor, via your videos and the other video provided with the guy showing off how to use git. 
